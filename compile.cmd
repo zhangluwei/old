@@ -14,5 +14,7 @@ set MYSQL_LIBRARY=C:\mysql-8.1.0-winx64\lib
 set MYSQL_ROOT=C:\mysql-8.1.0-winx64
 
 cd \
-
+dir
+git -v
+mysql -V
  
