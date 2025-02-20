@@ -6,10 +6,11 @@ lscpu
 #---------------------
 
 cd /mnt/
-
-curl -fsS -o wow.zip https://cdn1.bootybay.org/wotlk/Whitemane-WotLK-English-v4.1.zip
-7z  x  wow.zip
-mv wow package
+mkdir 123
+echo "123">000.txt
+#curl -fsS -o wow.zip https://cdn1.bootybay.org/wotlk/Whitemane-WotLK-English-v4.1.zip
+#7z  x  wow.zip
+#mv wow package
 
 #curl -fsS -o package.zip https://github.com/zhangluwei/old/releases/download/1.0.0/package.zip
 #7z  x  package.zip
