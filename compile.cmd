@@ -17,4 +17,5 @@ cd \
 dir
 git -v
 mysql -V
- 
+cmake .\
+cd \
