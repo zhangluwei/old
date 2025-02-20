@@ -1,7 +1,7 @@
  
 pwd
 mkdir package 
-df -sh
+df -h
 #---------------------
 
 #curl -fsS -o wow.zip https://cdn1.bootybay.org/wotlk/Whitemane-WotLK-English-v4.1.zip
