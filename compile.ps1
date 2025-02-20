@@ -14,6 +14,6 @@ set MYSQL_ROOT=C:\mysql-8.1.0-winx64
 cd \
 
 dir
- 
+wmic logicaldisk list brief
 echo %time%
  
