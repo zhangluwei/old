@@ -4,7 +4,7 @@ mkdir package
 df -h
 lscpu
 #---------------------
-
+su root
 cd /mnt/
 mkdir 123
 echo "123">000.txt
