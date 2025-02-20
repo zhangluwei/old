@@ -2,6 +2,7 @@
 pwd
 mkdir package 
 df -h
+lscpu
 #---------------------
 
 cd /mnt/
