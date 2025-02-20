@@ -1,0 +1,1 @@
+wmic cpu get Name,MaxClockSpeed,NumberOfCores,NumberOfLogicalProcessors
